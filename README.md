@@ -1,4 +1,4 @@
-# KienTrucPhanMem
+# Kiến Trúc Phần Mềm
 # Bài tập thực hành tuần 04
 - Huỳnh Minh Thủ
 - Mssv: 20010211
